@@ -1,0 +1,3 @@
+[submodule "UnpackMe.SDK.Core"]
+	path = UnpackMe.SDK.Core
+	url = https://github.com/hsreina/UnpackMe.SDK.Core.git
